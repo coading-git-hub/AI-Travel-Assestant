@@ -20,7 +20,7 @@ export default function Home() {
             Plan your Dream Trip with AI
           </h1>
           <p className="mb-6 text-center text-lg text-blue-700 font-semibold">Create personalized travel plans, chat with a virtual assistant, and explore the world effortlessly.</p>
-          <Link href="/plan" className="mt-2">
+          <Link href="/login-signup" className="mt-2">
             <button className="bg-blue-600 text-white px-6 py-2 rounded-full font-semibold shadow hover:bg-blue-700 transition border-2 border-blue-700">Get Started</button>
           </Link>
         </div>
